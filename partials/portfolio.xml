@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<portfolio>
+    <heading> PORTFOLIO</heading>
+        <port-cards>
+            <div class="portfolio-grid">
+            
+                <figure class="portfolio-1">
+                <img class="portfolio-img" src="img/portfolio-1.png" alt="Bathroom Render"/>
+                <figcaption class="caption"> Bathroom Render</figcaption>
+                    
+                </figure>
+
+                <figure class="portfolio-2">
+                    <img class="portfolio-img" src="img/portfolio-2.png" alt="Train tracks Vietnam"/>
+                    <figcaption class="caption">Train tracks Vietnam</figcaption>
+                </figure>
+
+                <figure class="portfolio-3">
+                    <img
+                        class="portfolio-img" src="img/portfolio-3.png" alt="Lotus Flower"/>
+                    <figcaption class="caption">Lotus Flower</figcaption>
+                </figure>
+
+                <figure class="portfolio-4">
+                    <img
+                        class="portfolio-img" src="img/portfolio-4.png" alt="Room 3d modelled"/>
+                    <figcaption class="caption">Room 3d modelled</figcaption>
+                </figure>
+
+                <figure class="portfolio-5">
+                    <img
+                        class="portfolio-img" src="img/portfolio-5.png" alt="Kuang Si Falls"/>
+                    <figcaption class="caption">Kuang Si Falls</figcaption>
+                </figure>
+
+                <figure class="portfolio-6">
+                    <img
+                        class="portfolio-img" src="img/portfolio-6.png" alt="Pier Brisbane"/>
+                    <figcaption class="caption">Pier Brisbane</figcaption>
+                </figure>
+
+            </div>
+        </port-cards>
+</portfolio>

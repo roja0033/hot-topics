@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<articles>
+    <article>
+        <div class="article">
+  
+            <heading> Value of money </heading>
+            <figure>
+            <img src="img/value-money.png"/>
+            <img class="article-img" src="img/value-money.png" alt="Euro and Dollar bills"/>
+            <figcaption>Euro and Dollar bills</figcaption>
+            </figure>
+
+            <text>The concept behind money dates back to the beginning of civilization. It's no surprise why money caught on amongst civilized people: It was a much more efficient and convenient way to transact business as opposed to bartering with other goods and services. Can you image keeping all of your wealth in something like livestock?
+                But unlike goods and services, money does not hold an intrinsic value in and of itself. In fact, today, money is merely a piece of specialized paper or numbers on a ledger. While it's important to note that this was not always the case (for much of history, money was minted in coins of metals that held real value), today the system relies on a mutual set of beliefs.
+                That is to say, that money has value because we as a society have assigned it value. In that sense, you can consider money a good with a limited supply and a demand simply because we want more of it. Simply put, we want money because we know that other people want money, so we can trade money for goods and services.
+                 This system works because a majority of us, if not all of us, believe in the future value of this money.
+                 source: https://www.thoughtco.com/the-future-of-money-1147769  </text>
+        </div>
+    </article>
+        <hr></hr>
+    <article>
+    <div class="article">
+            <heading> Tech in the future </heading>
+            <figure>
+            <img class="article-img" src="img/future.png" alt="Future?"/>
+               <figcaption> Future Unknown</figcaption>
+            </figure>
+
+            <text> Technology has the power to do many things, and changing the world is one of them. 
+            We're privileged to be living in a time where science and technology can assist us, make our lives easier and rethink the ways we go about our daily lives.
+            The technology we're already exposed and accustomed to has paved the way for us to innovate further, and this list of current and future technologies certainly have the potential to change our lives even more
+            Here's the list of technologies that will "probably" change our lives forever over the coming decade and beyond:
+            - Space Tourism
+            - Colonisation of other planets
+            - Robots in space and in the workplace
+            - Electric/self-driving cars
+            - Flying cars
+            - Roads over rivers
+            - Solar panel technology
+            - Hyper-fast trains
+            - Working in VR
+            - Wearable screens
+            - 3D printed food
+            - Smart mirrors that check your health
+            - Exoskeleton
+            - Artificial Intelligence
+
+            source: https://www.pocket-lint.com/gadgets/news/142027-tech-innovations-that-will-shortly-change-the-world
+             </text>
+    </div>
+    </article>
+       <hr></hr>
+    <article>
+        <div class="article">
+            <heading> GMO Food </heading>
+            <figure>
+                <img class="article-img" src="img/gmo-food.jpg" alt="Apple in a tree"/>
+                <figcaption> Apple in a tree</figcaption>
+            </figure>
+
+            <text>A GMO, or genetically modified organism, is a plant, animal, microorganism or other organism whose genetic makeup has been modified in a laboratory using genetic engineering or transgenic technology. 
+            This creates combinations of plant, animal, bacterial and virus genes that do not occur in nature or through traditional crossbreeding methods.
+            Most GMOs have been engineered to withstand the direct application of herbicide and/or to produce an insecticide.
+             However, new technologies are now being used to artificially develop other traits in plants, such as a resistance to browning in apples, and to create new organisms using synthetic biology.
+              Despite biotech industry promises, there is no evidence that any of the GMOs currently on the market offer increased yield, drought tolerance, enhanced nutrition, or any other consumer benefit.
+              source: https://www.thoughtco.com/the-future-of-money-1147769
+              </text>
+        </div>
+    </article>
+</articles>
